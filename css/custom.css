@@ -5,6 +5,7 @@
     font-family: 'Roboto', sans-serif;
 } */
 
+
 .primary-color{
     color: #FA804C;
 }
@@ -56,4 +57,24 @@ header{
 .transparent{
     border: 1px solid transparent;
     border-radius: 25px;
+}
+
+footer{
+    background-color: #FA804C;
+}
+footer a{
+    text-decoration: none;
+}
+
+footer .gift-cards,.get-help,.about-us{
+    color:#363958 ;
+    font-size: medium;
+    font-family: 'Bebas Neue', cursive;
+}
+.social-icons{
+    font-size: 50px;
+}
+
+.social-icons a i{
+    color:#363958 ;
 }
