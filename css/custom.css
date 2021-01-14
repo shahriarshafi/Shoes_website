@@ -71,6 +71,12 @@ footer .gift-cards,.get-help,.about-us{
     font-size: medium;
     font-family: 'Bebas Neue', cursive;
 }
+
+footer .gift-cards a,.get-help a,.about-us a{
+    color:#363958 ;
+    text-decoration: none;
+}
+
 .social-icons{
     font-size: 50px;
 }
